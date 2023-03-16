@@ -96,6 +96,6 @@ public class AutomobilisIml implements Comparable <AutomobilisIml> {
         return Comparator
                 .comparing(AutomobilisIml::getMarke)
                 .thenComparing(AutomobilisIml::getMetai)
-                .compare(this,automobilis);
+                .compare(this,automobilis);//.
     }
 }

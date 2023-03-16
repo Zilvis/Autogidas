@@ -24,7 +24,7 @@ public class Main {
         automobiliuSarasas.add(a5); automobiliuSarasas.add(a6); automobiliuSarasas.add(a7); automobiliuSarasas.add(a8);
         automobiliuSarasas.add(a9); automobiliuSarasas.add(a10);
 
-        //System.out.println("Automobiliu sarasas:");
+        //System.out.println("Automobiliu sarasas:");.
         //spauzdintiSarasa(automobiliuSarasas);
         //System.out.println("Automobiliu saras su parametrais:");
         //spauzdintiSarasa(automobiliuSarasas,"BMW",100000,2000,2010);
